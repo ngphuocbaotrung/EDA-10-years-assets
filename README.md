@@ -11,6 +11,7 @@ This project explores the historical performance of different asset classes over
 
 The analysis simulates investing **1€ per day** into each asset starting from 2015, and visualises the investment value growth using Python and Jupyter Notebook.
 I use the data from Yahoo Finance with the close price
+The next 5 years are predicted with Prophet methods.
 
 ## 📊 Features
 - Daily investment strategy simulation
